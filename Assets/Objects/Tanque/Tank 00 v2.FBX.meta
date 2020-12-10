@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 07f3ab49e5e3c1845a08050a50f331a4
+timeCreated: 1492979994
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cannon
+    100002: Chasis
+    100004: Orugas
+    100006: Rotor
+    100008: Rueda 01 (Der)
+    100010: Rueda 01 (Izq)
+    100012: Rueda 02 (Der)
+    100014: Rueda 02 (Izq)
+    100016: Rueda 03 (Der)
+    100018: Rueda 03 (Izq)
+    100020: Rueda 04 (Der)
+    100022: Rueda 04 (Izq)
+    100024: Rueda 05 (Der)
+    100026: Rueda 05 (Izq)
+    100028: Rueda 06 (Der)
+    100030: Rueda 06 (Izq)
+    100032: Rueda 07 (Der)
+    100034: Rueda 07 (Izq)
+    100036: Rueda 08 (Der)
+    100038: Rueda 08 (Izq)
+    100040: Rueda 09 (Der)
+    100042: Rueda 09 (Izq)
+    100044: Rueda 10 (Der)
+    100046: Rueda 10 (Izq)
+    100048: //RootNode
+    100050: Upper Body
+    400000: Cannon
+    400002: Chasis
+    400004: Orugas
+    400006: Rotor
+    400008: Rueda 01 (Der)
+    400010: Rueda 01 (Izq)
+    400012: Rueda 02 (Der)
+    400014: Rueda 02 (Izq)
+    400016: Rueda 03 (Der)
+    400018: Rueda 03 (Izq)
+    400020: Rueda 04 (Der)
+    400022: Rueda 04 (Izq)
+    400024: Rueda 05 (Der)
+    400026: Rueda 05 (Izq)
+    400028: Rueda 06 (Der)
+    400030: Rueda 06 (Izq)
+    400032: Rueda 07 (Der)
+    400034: Rueda 07 (Izq)
+    400036: Rueda 08 (Der)
+    400038: Rueda 08 (Izq)
+    400040: Rueda 09 (Der)
+    400042: Rueda 09 (Izq)
+    400044: Rueda 10 (Der)
+    400046: Rueda 10 (Izq)
+    400048: //RootNode
+    400050: Upper Body
+    2300000: Cannon
+    2300002: Chasis
+    2300004: Orugas
+    2300006: Rotor
+    2300008: Rueda 01 (Der)
+    2300010: Rueda 01 (Izq)
+    2300012: Rueda 02 (Der)
+    2300014: Rueda 02 (Izq)
+    2300016: Rueda 03 (Der)
+    2300018: Rueda 03 (Izq)
+    2300020: Rueda 04 (Der)
+    2300022: Rueda 04 (Izq)
+    2300024: Rueda 05 (Der)
+    2300026: Rueda 05 (Izq)
+    2300028: Rueda 06 (Der)
+    2300030: Rueda 06 (Izq)
+    2300032: Rueda 07 (Der)
+    2300034: Rueda 07 (Izq)
+    2300036: Rueda 08 (Der)
+    2300038: Rueda 08 (Izq)
+    2300040: Rueda 09 (Der)
+    2300042: Rueda 09 (Izq)
+    2300044: Rueda 10 (Der)
+    2300046: Rueda 10 (Izq)
+    2300048: Upper Body
+    3300000: Cannon
+    3300002: Chasis
+    3300004: Orugas
+    3300006: Rotor
+    3300008: Rueda 01 (Der)
+    3300010: Rueda 01 (Izq)
+    3300012: Rueda 02 (Der)
+    3300014: Rueda 02 (Izq)
+    3300016: Rueda 03 (Der)
+    3300018: Rueda 03 (Izq)
+    3300020: Rueda 04 (Der)
+    3300022: Rueda 04 (Izq)
+    3300024: Rueda 05 (Der)
+    3300026: Rueda 05 (Izq)
+    3300028: Rueda 06 (Der)
+    3300030: Rueda 06 (Izq)
+    3300032: Rueda 07 (Der)
+    3300034: Rueda 07 (Izq)
+    3300036: Rueda 08 (Der)
+    3300038: Rueda 08 (Izq)
+    3300040: Rueda 09 (Der)
+    3300042: Rueda 09 (Izq)
+    3300044: Rueda 10 (Der)
+    3300046: Rueda 10 (Izq)
+    3300048: Upper Body
+    4300000: Chasis
+    4300002: Upper Body
+    4300004: Cannon
+    4300006: Rotor
+    4300008: Rueda 01 (Der)
+    4300010: Rueda 02 (Der)
+    4300012: Rueda 03 (Der)
+    4300014: Rueda 04 (Der)
+    4300016: Rueda 05 (Der)
+    4300018: Rueda 06 (Der)
+    4300020: Rueda 07 (Der)
+    4300022: Rueda 08 (Der)
+    4300024: Rueda 09 (Der)
+    4300026: Rueda 10 (Der)
+    4300028: Rueda 01 (Izq)
+    4300030: Rueda 02 (Izq)
+    4300032: Rueda 03 (Izq)
+    4300034: Rueda 04 (Izq)
+    4300036: Rueda 05 (Izq)
+    4300038: Rueda 06 (Izq)
+    4300040: Rueda 07 (Izq)
+    4300042: Rueda 08 (Izq)
+    4300044: Rueda 09 (Izq)
+    4300046: Rueda 10 (Izq)
+    4300048: Orugas
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
